@@ -138,4 +138,4 @@ Phonebook Microservice Web Application aims to create a web application with MyS
 - [Kubernetes Documentations](https://kubernetes.io/docs/home/)
 - [Docker Hub](https://hub.docker.com/)
 - [Docker](https://www.docker.com/)
-- [Helm] https://helm.sh/
+- [Helm](https://helm.sh/)
