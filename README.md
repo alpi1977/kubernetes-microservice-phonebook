@@ -99,9 +99,9 @@ Phonebook Microservice Web Application aims to create a web application with MyS
 
 ## Docker Hub Repositories
 
-[Resultserver Docker Image](https://hub.docker.com/repository/docker/aozkan1977/resultserver)
+  - [Resultserver Docker Image](https://hub.docker.com/repository/docker/aozkan1977/resultserver)
 
-[Webserver Docker Image](https://hub.docker.com/repository/docker/aozkan1977/webserver)
+  - [Webserver Docker Image](https://hub.docker.com/repository/docker/aozkan1977/webserver)
 
 
 ### At the end of the project, following topics are to be covered;
